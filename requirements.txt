@@ -1,0 +1,8 @@
+black~=23.3
+discord.py~=2.2
+python-dateutil~=2.8
+python-dotenv~=1.0
+typing-extensions~=4.4
+emoji~=2.2
+aiosqlite~=0.19
+sqlalchemy[asyncio]~=2.0
